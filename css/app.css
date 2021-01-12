@@ -22,3 +22,13 @@ body {
   text-transform: uppercase;
   letter-spacing: 3px;
 }
+
+.horo-area {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.horo-area img {
+  width: 100%;
+  height: 400px;
+}
