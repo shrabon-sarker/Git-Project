@@ -16,3 +16,9 @@ body {
   color: #ffffff;
   padding: 2rem 0;
 }
+
+.header-title h2 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
